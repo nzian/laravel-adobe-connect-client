@@ -1,5 +1,5 @@
 {
-    "name": "soheilrt/laravel-adobe-connect-client",
+    "name": "nzian/laravel-adobe-connect-client",
     "description": "Adobe Connect Client Package For Laravel Based Applications",
     "keywords": [
         "adobe",
@@ -12,12 +12,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Soheil Rahmat",
-            "email": "soheilrt314@gmail.com"
+            "name": "Dev nzian",
+            "email": "nzianit@gmail.com"
         }
     ],
     "require": {
-        "php": ">=7.2",
+        "php": ">=8.1",
         "laravel/framework": "^10",
         "ext-curl": "*",
         "ext-json": "*",
